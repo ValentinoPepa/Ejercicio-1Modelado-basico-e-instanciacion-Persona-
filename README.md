@@ -16,7 +16,7 @@
 LOGICA DE RESOLUCION
 - **La clase _persona_** funciona como el molde que define los datos (nombre y edad) que tendrá cada persona en el programa
 - **Instanciación en la memoria:** Al usar el operador _new_, se solicita espacio dinámico e independiente en la memoria heap para construir cada objeto concreto
--** Operador de acceso punto (.):** Permite ingresar directamente a las variables internas de cada objeto para asignar y leer sus datos
+- ** Operador de acceso punto (.):** Permite ingresar directamente a las variables internas de cada objeto para asignar y leer sus datos
 
 FUNCIONAMIENTO 
 - **Definicion de la clase:** Se declara la estructura _persona_ con sus atributos publicos
