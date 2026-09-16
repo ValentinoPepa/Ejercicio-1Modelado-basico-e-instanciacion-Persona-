@@ -19,10 +19,10 @@ LOGICA DE RESOLUCION
 . Operador de acceso punto (.): Permite ingresar directamente a las variables internas de cada objeto para asignar y leer sus datos
 
 FUNCIONAMIENTO 
-. Definicion de la clase: Se declara la estructura _persona_ con sus atributos publicos
-. Creacion del objeto: Al ejecutar _Persona persona1 = new Persona();_ 
+- **Definicion de la clase:** Se declara la estructura _persona_ con sus atributos publicos
+- **Creacion del objeto:** Al ejecutar _Persona persona1 = new Persona();_ 
   - La JVM reserva memoria en el heap para el objeto
   - se ejecuta el constructor por defecto, asignando valores iniciales (null a nombre y 0 a edad)
   - La direccion de memoria del objeto se guarda en la variable de referencia _persona1_
-. Asignación de datos: Al ejecutar _persona1.nombre = "Ana";_ se viaja a la ubicación de memoria de _persona1_ y se actualiza su atributo. Los datos de _persona2_ se guardan en otra dirección independiente del heap
-. Lectura: Se utiliza la notación de punto (_persona1.nombre_) para extraer los calores de cada instancia y mostrarlos por consola
+- **Asignación de datos:** Al ejecutar _persona1.nombre = "Ana";_ se viaja a la ubicación de memoria de _persona1_ y se actualiza su atributo. Los datos de _persona2_ se guardan en otra dirección independiente del heap
+- **Lectura:** Se utiliza la notación de punto (_persona1.nombre_) para extraer los calores de cada instancia y mostrarlos por consola
