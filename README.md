@@ -1,4 +1,4 @@
-# Ejercicio-1Modelado-basico-e-instanciacion-Persona-
+# POO-Ejercicio-1Modelado-basico-e-instanciacion-Persona-
 [Uploading <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
